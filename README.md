@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 I'm a Data Scientist & Analyst
+🚀 I'm a Data Scientist and Researcher
 
-👀 I am actively seeking my next challenge as a Data Scientist or Data Analyst. I am passionate about leveraging data and machine learning to solve complex problems and create measurable business value. My expertise spans the entire data lifecycle, from engineering and analysis to building powerful models.
+👀 I am actively seeking my next challenge as a Data Scientist. I am passionate about leveraging data and machine learning to solve complex problems and create measurable business value. My expertise spans the entire data lifecycle, from engineering and analysis to building powerful models.
 
 💡 I bring a unique combination of technical expertise and a global perspective. My journey has taken me through academic and professional experiences across 6 different countries, where I’ve had the opportunity to collaborate with individuals from over 20 countries. This diverse background has equipped me with a unique adaptability and strong cross-cultural communication skills.
 
