@@ -16,15 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 I'm a Data Scientist and Researcher
 
-👀 I am passionate about leveraging data and machine learning to solve complex problems and create measurable business value. My expertise spans the entire data lifecycle, from engineering and analysis to building powerful models.
+# 🚀 Data Scientist & Researcher  
 
-🎓 My technical foundation is built on a strong academic background.
+👀 Passionate about using data and machine learning to solve complex problems and drive business value. Skilled across the full data lifecycle — from engineering and analysis to modeling.  
 
-Erasmus Mundus Joint Master's Program: Data Science & Big Data Management and BI across universities in Italy, Spain, and Belgium. <br/>ITMO University: BSc in Information Systems and Technologies.
+🎓 *Erasmus Mundus MSc in Data Science & Big Data (Italy, Spain, Belgium)*  
+🎓 *BSc in Information Systems, ITMO University*  
 
-💬 Let's connect!
-I am actively seeking my next challenge as a Data Scientist. I am ready to join a dynamic team and contribute to impactful projects. Feel free to connect with me to discuss potential opportunities or just to talk data.
-
-📫 You can reach me by sending a message on my [LinkedIn Profile](linkedin.com/in/arina-gepalova/)
+💬 Let’s connect! [LinkedIn](https://linkedin.com/in/arina-gepalova/)  
