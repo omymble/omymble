@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🚀 Data Scientist & Researcher  
+🚀 I'm a Data Scientist & Researcher  
 
 👀 Passionate about using data and machine learning to solve complex problems and drive business value. Skilled across the full data lifecycle — from engineering and analysis to modeling.  
 
